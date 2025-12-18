@@ -1,0 +1,33 @@
+{
+  "sample": "A12",
+  "date": "2025-03-05",
+  "values": [12, 15, 18, 22, 27],
+  "metadata": {
+    "instrument": "NanoSeq2000",
+    "operator": "student01"
+  },
+  "notes": "Sample A12 shows expected values within the normal range.",
+  "status": "completed",
+  "files": [
+    {
+      "filename": "A12_results.txt",
+      "size_kb": 45,
+      "type": "text"
+    },
+    {
+      "filename": "A12_image.png",
+      "size_kb": 150,
+      "type": "image"
+    },
+    {
+      "filename": "A12_data.csv",
+      "size_kb": 30,
+      "type": "csv"
+    },
+    {
+      "filename": "A12_report.pdf",
+      "size_kb": 200,
+      "type": "pdf"
+    }
+  ]
+}

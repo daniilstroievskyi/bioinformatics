@@ -1,0 +1,18 @@
+<experiment>
+    <samples>
+        <sample id="S01">
+            <type>RNA</type>
+            <reads>1500000</reads>
+            <quality>A</quality>
+        </sample>
+        <sample id="S02">
+            <type>DNA</type>
+            <reads>2200000</reads>
+            <quality>B</quality>
+        </sample>
+    </samples>
+    <files>
+        <file>S01_reads.fastq</file>
+        <file>S02_reads.fastq</file>
+    </files>
+</experiment>

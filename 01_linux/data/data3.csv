@@ -1,0 +1,11 @@
+gene,length,organism
+BRCA1,1863,human
+lacZ,3072,ecoli
+ACT1,1128,yeast
+gag,1500,virus
+env,2400,virus
+rbcL,1428,plant
+16S_rRNA,1542,bacteria
+COX1,1545,animal
+TP53,1179,human
+GFP,720,jellyfish

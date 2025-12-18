@@ -1,0 +1,7 @@
+Bioinformatics is a rapidly evolving discipline. Students who practice Linux commands
+such as grep, sed, awk, sort, uniq, and find gain a strong advantage in data analysis.
+Large-scale sequencing projects generate enormous text-based datasets. Skills in 
+navigating directories, parsing text files, and automating tasks are essential.
+Motifs like ATG, CGT, and TATA appear frequently in genomic data.
+Mastering these commands enables efficient data manipulation, pattern recognition,
+and extraction of meaningful biological insights from raw data files.

@@ -1,0 +1,1 @@
+This is an example text file containing a simple paragraph. It is used for practicing basic Linux commands such as grep, sed, awk, head, and tail. The quick brown fox jumps over the lazy dog.
