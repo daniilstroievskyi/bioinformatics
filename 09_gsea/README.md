@@ -62,7 +62,6 @@ In case you want to install R using conda, you can do it as follows:
 
 ```bash
 conda install -c bioconda bioconductor-clusterprofiler bioconductor-org.hs.eg.db bioconductor-dose bioconductor-enrichplot bioconductor-biomart r-tidyverse bioconductor-pathview
-```
 
 R
 
