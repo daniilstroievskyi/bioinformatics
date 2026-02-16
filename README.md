@@ -8,11 +8,9 @@ Course instructors:
 
 **Martin Blažek** ([martin.blazek@stuba.sk](mailto:martin.blazek@stuba.sk)) - instructor, lecturer
 
-**Martin Družbacký** ([martin.druzbacky@stuba.sk](mailto:martin.druzbacky@stuba.sk)) - lecturer
-
 **Matej Hrnčiar** ([matej.hrnciar@stuba.sk](mailto:matej.hrnciar@stuba.sk)) - practicals author, repository maintainer, lecturer
 
-**Katarína Hutirová** ([katarina.hutirova@stuba.sk](mailto:katarina.hutirova@stuba.sk)) - instructor
+**Katarína Hutirová** ([katarina.hutirova@stuba.sk](mailto:katarina.hutirova@stuba.sk)) - instructor, lecturer
 
 
 The course covers these main topics:

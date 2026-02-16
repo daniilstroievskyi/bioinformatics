@@ -41,7 +41,37 @@ By the end of this practicum, you will be able to:
 
 ## Getting Started
 
-No additional software installation is required for this practicum if you have access to a Linux environment. If you are using Windows, ensure that WSL is properly set up.
+If you are using Windows, ensure that you have WSL installed and set up. You can follow the official Microsoft guide [here](https://docs.microsoft.com/en-us/windows/wsl/install).
+If you are using macOS or Linux, you can use the built-in terminal application.
+Note that some commands may slightly differ between Linux distributions and macOS, but the core concepts remain the same.
+
+Besides Linux, we will also use Conda or Mamba for environment management and package installation.
+You don't have to install both, choose one of them, but Mamba is generally faster and more efficient.
+It is also built on top of Conda, so if you install Mamba, you will also have Conda available.
+You can follow the instructions on their respective websites:
+
+- [Conda Installation Guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+
+- [Mamba Installation Guide](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html)
+
+TL;DR you can install Mamba via Conda as follows:
+
+```bash
+# Download the Miniforge installer script
+# macOS (Apple Silicon)
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Darwin-arm64.sh
+
+# macOS (x86_64)
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Darwin-x86_64.sh
+
+# Linux (x86_64)
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
+
+# Run the installer script
+bash Miniforge3-*.sh
+
+# Alternatively, you can download and install Miniconda from https://conda-forge.org/download/
+```
 
 All resources and files needed for this practicum are included in the bioinformatics resources repository. Navigate to the `bioinformatics/01_linux/` directory in your terminal to find the relevant materials.
 
